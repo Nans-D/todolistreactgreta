@@ -1,0 +1,12 @@
+.list-items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+.item {
+  padding: 2em 20em;
+  background-color: grey;
+}
